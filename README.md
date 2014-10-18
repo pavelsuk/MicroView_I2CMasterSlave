@@ -13,5 +13,5 @@ from [Nicholas Zambetti](http://www.zambetti.com).
  
 ### Schema 
 You need to connect both Microviews PIN2->PIN2 and PIN3->PIN3 (see photo). If you don't use one power supply, 
-you have to connect at least GND on both Micriviews.  
+you have to connect at least GND on both Microviews.  
 ![Photo](/doc/master_slave.png) 
