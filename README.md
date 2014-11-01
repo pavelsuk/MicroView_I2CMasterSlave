@@ -19,3 +19,4 @@ You need to connect both Microviews PIN2->PIN2 and PIN3->PIN3 (see photo). If yo
 you have to connect at least GND on both Microviews. 
 In the Master as Reader setup, you can use any Arduino device, just connect SDA-SDA and SLC-SLC. Tested with Arduino Pro Mini - you need to solder PIN4 (SDA) and PIN5 (SCL).
 ![Photo](/doc/master_slave.png) 
+![Photo](/doc/master_2slaves.png) 
